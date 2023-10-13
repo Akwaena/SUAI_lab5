@@ -1,0 +1,56 @@
+html {
+	font-family: "Lucida Console";
+	text-align: center;
+}
+
+body {
+	background-color: rgb(41, 41, 41);
+	padding-top: 0%;
+}
+
+footer {
+	margin-top: 1%
+	background-color: rgb(61, 61, 61);
+	text-align: center;
+}
+
+head {
+	padding-bottom: 10%
+}
+
+p {
+
+	color: rgb(160, 160, 159);
+}
+
+h1 {
+	color: rgb(160, 160, 159);
+}
+
+h2 {
+	color: rgb(160, 160, 159);
+}
+
+h3 {
+	color: rgb(160, 160, 159);
+}
+
+a {
+	color: rgb(200, 200, 200);
+}
+
+.auto-resize-image {
+	width: 70%;
+}
+
+.main-page-header {
+	font-size: 200%;
+	margin-bottom: 1%;
+
+}
+
+.main-page-description {
+	text-align: center;
+	font-size: 80%;
+	margin-top: 1px;
+}
